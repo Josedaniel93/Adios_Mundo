@@ -7,7 +7,7 @@ public class AdiosMundo {
 		String rojo = "\033[31m";
 		String reset = "\033[0m";
 
-		System.out.println(amarillo+"Adios Mundo"+reset);
+		System.out.println(amarillo+"Adios Mundo Cruel"+reset);
 		System.out.println(rojo+"Pero volveré"+reset);
 
 	}
